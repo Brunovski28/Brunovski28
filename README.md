@@ -1,5 +1,3 @@
-###     Opa 👋
-
 <h1> Bruno Camilo </h1>
 <a href = 'https://www.instagram.com/bruno_camilo2004/'> Instagram</a> meu instagram...
 
